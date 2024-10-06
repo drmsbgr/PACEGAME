@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb9b1dc0d58644d44909d3dfdfc7722f, type: 3}
+  m_Name: card 57
+  m_EditorClassIdentifier: 
+  question: What are the economic costs associated with measures taken to address
+    climate change?
+  information: "While the initial costs of climate change mitigation measures can
+    be high, studies show that these investments can lead to significant savings
+    by reducing the adverse effects of climate change over the long term. Investments
+    in reducing greenhouse gas emissions, transitioning to sustainable energy sources,
+    and adopting low-carbon technologies can also create economic growth and job
+    opportunities.\r"
+  topic: {fileID: 11400000, guid: f6117f929ed084441833963c224983c2, type: 2}

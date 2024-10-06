@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb9b1dc0d58644d44909d3dfdfc7722f, type: 3}
+  m_Name: card 60
+  m_EditorClassIdentifier: 
+  question: What role do media and public awareness play in climate change and ecosystem
+    protection efforts?
+  information: The media plays a significant role in informing the public and raising
+    awareness about climate change and ecosystem protection issues. The flow of information
+    through media can shape societal attitudes and behaviors regarding these topics.
+    Increased public awareness can enhance support for climate action and influence
+    policies.
+  topic: {fileID: 11400000, guid: f6117f929ed084441833963c224983c2, type: 2}

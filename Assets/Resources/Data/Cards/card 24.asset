@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb9b1dc0d58644d44909d3dfdfc7722f, type: 3}
+  m_Name: card 24
+  m_EditorClassIdentifier: 
+  question: Why is the Air Quality Index (AQI) important?
+  information: The Air Quality Index (AQI) provides a quick and understandable assessment
+    of air quality. It is calculated based on the concentrations of specific pollutants
+    (PM2.5, PM10, ozone, nitrogen dioxide, sulfur dioxide, and carbon monoxide).
+    High AQI values indicate harmful air conditions, alerting the public to avoid
+    certain activities.
+  topic: {fileID: 11400000, guid: 1658c59c7b0cb9a42b89c698c31f0592, type: 2}

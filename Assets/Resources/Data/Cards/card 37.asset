@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb9b1dc0d58644d44909d3dfdfc7722f, type: 3}
+  m_Name: card 37
+  m_EditorClassIdentifier: 
+  question: What is the relationship between air quality and climate change?
+  information: The relationship between air quality and climate change is complex.
+    Climate change can influence weather and atmospheric conditions, affecting the
+    formation and distribution of pollutants. For instance, rising temperatures can
+    increase ozone levels, while certain pollutants can contribute to the greenhouse
+    effect, accelerating climate change. Thus, managing air quality is also significant
+    in the fight against climate change.
+  topic: {fileID: 11400000, guid: 1658c59c7b0cb9a42b89c698c31f0592, type: 2}

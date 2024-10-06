@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb9b1dc0d58644d44909d3dfdfc7722f, type: 3}
+  m_Name: card 45
+  m_EditorClassIdentifier: 
+  question: How is deforestation related to climate change?
+  information: Deforestation occurs when trees are cut down or burned, contributing
+    to increased carbon dioxide levels in the atmosphere. Trees play a crucial role
+    in capturing carbon; therefore, their loss exacerbates climate change. Protecting
+    and restoring forests is essential for mitigating these effects.
+  topic: {fileID: 11400000, guid: f6117f929ed084441833963c224983c2, type: 2}

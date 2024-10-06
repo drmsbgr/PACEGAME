@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb9b1dc0d58644d44909d3dfdfc7722f, type: 3}
+  m_Name: card 39
+  m_EditorClassIdentifier: 
+  question: What are the new technological trends in air quality monitoring?
+  information: Several new trends are emerging in air quality monitoring technology.
+    High-resolution satellite systems allow for the observation of large areas, and
+    integrating air quality data with geographic information systems (GIS) enhances
+    spatial analysis capabilities. Additionally, mobile sensors and smartphone applications
+    enable individuals to track air quality in real-time.
+  topic: {fileID: 11400000, guid: 1658c59c7b0cb9a42b89c698c31f0592, type: 2}

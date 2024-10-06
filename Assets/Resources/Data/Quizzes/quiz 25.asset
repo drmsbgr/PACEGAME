@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a18829ddc290da54b8652494fab4b005, type: 3}
+  m_Name: quiz 25
+  m_EditorClassIdentifier: 
+  question: How do ocean microorganisms contribute to the carbon cycle?
+  options:
+  - option: They break down organic matter and enhance nutrient cycling
+  - option: They do not participate in the carbon cycle
+  - option: They primarily feed on phytoplankton
+  - option: They only contribute to pollution
+  answer: 0
+  difficulty: 2
+  topic: {fileID: 11400000, guid: 282a395d0cb43a740aee9b6a139cd813, type: 2}

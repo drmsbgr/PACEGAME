@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb9b1dc0d58644d44909d3dfdfc7722f, type: 3}
+  m_Name: card 43
+  m_EditorClassIdentifier: 
+  question: What is biodiversity, and why is it crucial for ecosystems?
+  information: Biodiversity refers to the variety of different species and genetic
+    diversity within a specific ecosystem. It is vital for ecosystems because this
+    diversity supports food web interactions, ecosystem services (such as soil fertility
+    and water filtration), and resilience against environmental changes.
+  topic: {fileID: 11400000, guid: f6117f929ed084441833963c224983c2, type: 2}

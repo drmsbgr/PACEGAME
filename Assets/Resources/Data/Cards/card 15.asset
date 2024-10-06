@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb9b1dc0d58644d44909d3dfdfc7722f, type: 3}
+  m_Name: card 15
+  m_EditorClassIdentifier: 
+  question: What kind of information does phytoplankton monitoring provide about
+    ocean health?
+  information: "Phytoplankton monitoring yields valuable insights into nutrient levels,
+    temperature, and pollution in oceans. Changes in phytoplankton populations can
+    indicate the health of marine ecosystems and the balance of the food chain. This
+    monitoring also aids in assessing the impacts of climate change.\r"
+  topic: {fileID: 11400000, guid: 282a395d0cb43a740aee9b6a139cd813, type: 2}

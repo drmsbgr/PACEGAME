@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Resources/Scenes/MainMenu.unity
+    guid: a610b094c01bf344fb292446f0a7d735
+  - enabled: 1
+    path: Assets/Resources/Scenes/Quiz.unity
+    guid: 1b5b0d15f0e9dde4e80153cc2270906c
+  - enabled: 1
+    path: Assets/Resources/Scenes/Cards.unity
+    guid: c71b8054b173fbd4794a84ecd6301019
+  - enabled: 1
+    path: Assets/Resources/Scenes/Media.unity
+    guid: ee3a191bbb406004d961fc45b7c75528
+  m_configObjects: {}

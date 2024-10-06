@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb9b1dc0d58644d44909d3dfdfc7722f, type: 3}
+  m_Name: card 02
+  m_EditorClassIdentifier: 
+  question: What does the change in ocean colors indicate?
+  information: Changes in ocean colors indicate variations in nutrient levels and
+    plankton density in the water. Specifically, green tones suggest an increase
+    in phytoplankton populations and a richer nutrient environment, while blue tones
+    indicate deeper, nutrient-poor water masses. These color changes provide insights
+    into the health of the ecosystem.
+  topic: {fileID: 11400000, guid: 282a395d0cb43a740aee9b6a139cd813, type: 2}

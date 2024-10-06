@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb9b1dc0d58644d44909d3dfdfc7722f, type: 3}
+  m_Name: card 13
+  m_EditorClassIdentifier: 
+  question: How do ocean temperatures affect phytoplankton development?
+  information: Ocean temperatures influence the photosynthesis rates and growth rates
+    of phytoplankton. Warmer waters may promote the growth of certain phytoplankton
+    species while threatening others. These changes can impact the balance of marine
+    ecosystems and affect ecosystem services.
+  topic: {fileID: 11400000, guid: 282a395d0cb43a740aee9b6a139cd813, type: 2}

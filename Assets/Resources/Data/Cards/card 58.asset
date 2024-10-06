@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb9b1dc0d58644d44909d3dfdfc7722f, type: 3}
+  m_Name: card 58
+  m_EditorClassIdentifier: 
+  question: What methods are used to understand the impacts of climate change on
+    agricultural systems?
+  information: To assess the impacts of climate change on agriculture, methods such
+    as climate modeling, remote sensing, and data analysis are employed. These techniques
+    provide vital data for enhancing agricultural practices, managing pests and diseases,
+    and developing climate-resilient crop varieties.
+  topic: {fileID: 11400000, guid: f6117f929ed084441833963c224983c2, type: 2}

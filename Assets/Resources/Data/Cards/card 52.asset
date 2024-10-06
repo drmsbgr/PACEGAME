@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb9b1dc0d58644d44909d3dfdfc7722f, type: 3}
+  m_Name: card 52
+  m_EditorClassIdentifier: 
+  question: What are the social and economic impacts of climate change on vulnerable
+    communities?
+  information: Vulnerable communities are disproportionately affected by climate
+    change, facing increased natural disasters that threaten food and water security,
+    along with rising health issues and displacement risks. These impacts weaken
+    their ability to cope with climate change and raise concerns about social justice
+    and equity.
+  topic: {fileID: 11400000, guid: f6117f929ed084441833963c224983c2, type: 2}
